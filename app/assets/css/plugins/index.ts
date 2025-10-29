@@ -1,0 +1,9 @@
+import "./animations.css";
+import "./bootstrap.css";
+import "./font-awesome.css";
+import "./jquery.animatedheadline.css";
+import "./linear-icons.css";
+import "./magnific-popup.css";
+import "./owl.carousel.min.css";
+import "./owl.theme.default.min.css";
+import "./simplebar.css";
