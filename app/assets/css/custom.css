@@ -5,3 +5,9 @@
   font-size: 72px;
   line-height: 1.7;
 }
+
+@media screen and (max-width: 767px) {
+  .font-signature {
+    font-size: 55px;
+  }
+}
